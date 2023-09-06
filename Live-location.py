@@ -38,8 +38,8 @@ def loop():
     │ ├┬┘├─┤│  ├┴┐├┤ ├┬┘
     ┴ ┴└─┴ ┴└─┘┴ ┴└─┘┴└─                                                                                                                                                       
  ==============================================
-[+]Author  : Akash Black Hat                 [+]
-[+]GitHub  : https://github.com/akashblackhat[+]""")
+[+]Author  : Thamim Ansari.A                 [+]
+[+]GitHub  : https://github.com/thamim358[+]""")
     print(Fore.GREEN + """ ==============================================""")
     # print("Usage:Iptracker [Ip address]\n\nExample:Iptracker our prsnal ip")
     print(Fore.GREEN + """
@@ -156,4 +156,3 @@ def loop():
 
 
 loop()
-# HAPPY HACKING
